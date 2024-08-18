@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amir
+- 👋 Hi there, I’m Amir
 - 👀 I’m interested in Ansible and DevOps
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to collaborate on projects related to DevOps and automation
