@@ -2,7 +2,6 @@
 - 👀 I’m interested in Ansible and Terraform
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to collaborate on projects related to DevOps and automation
-- 📫 How to reach me  If you want to reach out, feel free to email me at echoamirkolahi@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I love exploring new tools and technologies in the DevOps field!
 
