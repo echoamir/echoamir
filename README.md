@@ -1,4 +1,4 @@
-# 💫 About Me:
+Me:
 👋 Hi there, I’m Amir<br>👀 I’m interested in Ansible and Terraform<br>🌱 I’m currently learning DevOps  tools<br>💞️ I’m looking to collaborate on projects related to DevOps and automation<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love exploring new tools and technologies in the DevOps field!
 
 
